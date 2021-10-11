@@ -28,4 +28,5 @@ export class WeatherComponent implements OnInit {
       console.log(this.weatherData);
     });
   }
+  //Commit para configurar las credenciales, borrar desp
 }
